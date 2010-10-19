@@ -1,0 +1,5 @@
+<area shape="rect" href="$classGenericRPG.html#addf993ae78d1b14589750c78d095aa4" title="GenericRPG::init_generator" alt="" coords="215,5,393,32">
+<area shape="rect" href="$classComponent.html#af44955457bc84fa39a346ee70db916f" title="Component::myId" alt="" coords="243,56,365,83">
+<area shape="rect" href="$classSimulator.html#cf5727f517db6743ddf25ae7cc9a8db4" title="Simulator::Now" alt="" coords="249,107,359,133">
+<area shape="rect" href="$classNetworkComponent.html#c93793eea1e2d424abe86e110ca8b399" title="NetworkComponent::process_event" alt="" coords="191,157,417,184">
+<area shape="rect" href="$classSimulator.html#2b4be0a76ed9915d4c1c861386d666bc" title="Simulator::Schedule" alt="" coords="235,208,373,235">

@@ -1,0 +1,5 @@
+<area shape="rect" href="$classSimulator.html#cf5727f517db6743ddf25ae7cc9a8db4" title="Simulator::Now" alt="" coords="633,5,743,32">
+<area shape="rect" href="$classNetworkComponent.html#c93793eea1e2d424abe86e110ca8b399" title="NetworkComponent::process_event" alt="" coords="575,81,801,108">
+<area shape="rect" href="$classRouterVcMP.html#cdddaf6c07af49b76d9f5cfdb41ad2fe" title="RouterVcMP::request_switch_allocation" alt="" coords="273,195,524,221">
+<area shape="rect" href="$classSimulator.html#2b4be0a76ed9915d4c1c861386d666bc" title="Simulator::Schedule" alt="" coords="619,132,757,159">
+<area shape="rect" href="$classRouterVcMP.html#b417be493eec592bcbfee9c11ced11a9" title="RouterVcMP::send_credit_back" alt="" coords="296,93,501,120">

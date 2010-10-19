@@ -1,0 +1,4 @@
+<area shape="rect" href="$classRouterReqReply.html#830f04e9b4ddf5f2ab729ec45d76c873" title="RouterReqReply::do_switch_traversal" alt="" coords="353,5,591,32">
+<area shape="rect" href="$classRouterReqReply.html#9517d18795591e4f1d1c16beb0449104" title="RouterReqReply::do_virtual_channel_allocation" alt="" coords="325,56,619,83">
+<area shape="rect" href="$classRouterReqReply.html#411af47ed038c13da48fd2d62a757652" title="Event handle for the TICK_EVENT. Entry from DES kernel." alt="" coords="668,31,895,57">
+<area shape="rect" href="$classRouterReqReply.html#a2ab54ec79f2de83ba6018ec37f9d857" title="RouterReqReply::process_event" alt="" coords="944,31,1152,57">

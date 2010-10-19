@@ -1,0 +1,4 @@
+<area shape="rect" href="$classRouterVcMP.html#08d4fe4868e988f97d01447ec0f6a684" title="RouterVcMP::do_switch_traversal" alt="" coords="335,5,553,32">
+<area shape="rect" href="$classRouterVcMP.html#eda9728e40e878050efc9b33e9f00b8e" title="RouterVcMP::do_virtual_channel_allocation" alt="" coords="308,56,580,83">
+<area shape="rect" href="$classRouterVcMP.html#12f17f2fd3c52c2cadec80f4a5dedb2e" title="Event handle for the TICK_EVENT. Entry from DES kernel." alt="" coords="629,31,837,57">
+<area shape="rect" href="$classRouterVcMP.html#e6a7358aaa2e263b8f4f5ae49474f7cc" title="RouterVcMP::process_event" alt="" coords="887,31,1073,57">

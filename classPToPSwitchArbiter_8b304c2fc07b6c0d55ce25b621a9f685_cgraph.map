@@ -1,0 +1,4 @@
+<area shape="rect" href="$classPToPSwitchArbiter.html#3e59f4eb3486f1b5355476c50550f702" title="PToPSwitchArbiter::do_fcfs_arbitration" alt="" coords="307,5,552,32">
+<area shape="rect" href="$classPToPSwitchArbiter.html#012ef93786c879ce0c3db3891d43a9be" title="PToPSwitchArbiter::do_priority_round_robin_arbitration" alt="" coords="261,56,597,83">
+<area shape="rect" href="$classPToPSwitchArbiter.html#bb10205ca5104e0be5519bd336fb85e1" title="PToPSwitchArbiter::do_round_robin_arbitration" alt="" coords="284,107,575,133">
+<area shape="rect" href="$classSimulator.html#cf5727f517db6743ddf25ae7cc9a8db4" title="Simulator::Now" alt="" coords="645,5,755,32">

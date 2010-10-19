@@ -1,0 +1,16 @@
+<area shape="rect" href="$classRouterReqReply.html#ce4ce90de2083ae6795a7c1c10579d2a" title="RouterReqReply::handle_detect_deadlock_event" alt="" coords="881,644,1183,671">
+<area shape="rect" href="$classRouterReqReply.html#fe3d1e06e4b4c5d8831398b4c7ac59e5" title="Event handle for the LINK_ARRIVAL_EVENT event. Entry from DES kernel." alt="" coords="897,695,1167,721">
+<area shape="rect" href="$classRouterReqReply.html#411af47ed038c13da48fd2d62a757652" title="Event handle for the TICK_EVENT. Entry from DES kernel." alt="" coords="263,404,489,431">
+<area shape="rect" href="$classSimulator.html#cf5727f517db6743ddf25ae7cc9a8db4" title="Simulator::Now" alt="" coords="1292,467,1401,493">
+<area shape="rect" href="$classNetworkComponent.html#c93793eea1e2d424abe86e110ca8b399" title="NetworkComponent::process_event" alt="" coords="1233,593,1460,620">
+<area shape="rect" href="$classSimulator.html#2b4be0a76ed9915d4c1c861386d666bc" title="Simulator::Schedule" alt="" coords="1277,695,1416,721">
+<area shape="rect" href="$classRouterReqReply.html#843dbd4d1bf2967c649e411a75e0b3a4" title="RouterReqReply::do_input_buffering" alt="" coords="572,188,799,215">
+<area shape="rect" href="$classRouterReqReply.html#922572870a8276957418efc96ecb362e" title="RouterReqReply::do_switch_allocation" alt="" coords="564,517,807,544">
+<area shape="rect" href="$classRouterReqReply.html#830f04e9b4ddf5f2ab729ec45d76c873" title="RouterReqReply::do_switch_traversal" alt="" coords="567,467,804,493">
+<area shape="rect" href="$classRouterReqReply.html#9517d18795591e4f1d1c16beb0449104" title="RouterReqReply::do_virtual_channel_allocation" alt="" coords="539,289,832,316">
+<area shape="rect" href="$classVcaMsgAware.html#39bc913ebfd3f9e6a9fcd18d58fb53f6" title="VcaMsgAware::clear_winner" alt="" coords="940,543,1124,569">
+<area shape="rect" href="$classRouterReqReply.html#6ab24e85122cbdf0a40dac60e3d3a385" title="RouterReqReply::request_switch_allocation" alt="" coords="896,391,1168,417">
+<area shape="rect" href="$classRouterReqReply.html#2cce27c47a7e1abbc2ad89d5a70c071d" title="RouterReqReply::send_credit_back" alt="" coords="920,492,1144,519">
+<area shape="rect" href="$classVcaMsgAware.html#6ecf33de60c53a4a899017d73080d471" title="VcaMsgAware::get_no_requestors" alt="" coords="923,289,1141,316">
+<area shape="rect" href="$classVcaMsgAware.html#a507f6f23eb6cfd5bdfee9429b281d18" title="VcaMsgAware::pick_winners" alt="" coords="939,188,1125,215">
+<area shape="rect" href="$classVcaMsgAware.html#7d4367ada0e121c635cc75ffc8625de7" title="VcaMsgAware::request" alt="" coords="955,239,1109,265">

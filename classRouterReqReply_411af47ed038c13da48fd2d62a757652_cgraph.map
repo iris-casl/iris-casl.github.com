@@ -1,0 +1,13 @@
+<area shape="rect" href="$classRouterReqReply.html#843dbd4d1bf2967c649e411a75e0b3a4" title="RouterReqReply::do_input_buffering" alt="" coords="316,83,543,109">
+<area shape="rect" href="$classSimulator.html#cf5727f517db6743ddf25ae7cc9a8db4" title="Simulator::Now" alt="" coords="1004,133,1113,160">
+<area shape="rect" href="$classRouterReqReply.html#922572870a8276957418efc96ecb362e" title="RouterReqReply::do_switch_allocation" alt="" coords="308,564,551,591">
+<area shape="rect" href="$classRouterReqReply.html#830f04e9b4ddf5f2ab729ec45d76c873" title="RouterReqReply::do_switch_traversal" alt="" coords="311,311,548,337">
+<area shape="rect" href="$classNetworkComponent.html#c93793eea1e2d424abe86e110ca8b399" title="NetworkComponent::process_event" alt="" coords="945,285,1172,312">
+<area shape="rect" href="$classSimulator.html#2b4be0a76ed9915d4c1c861386d666bc" title="Simulator::Schedule" alt="" coords="989,387,1128,413">
+<area shape="rect" href="$classRouterReqReply.html#9517d18795591e4f1d1c16beb0449104" title="RouterReqReply::do_virtual_channel_allocation" alt="" coords="283,513,576,540">
+<area shape="rect" href="$classVcaMsgAware.html#39bc913ebfd3f9e6a9fcd18d58fb53f6" title="VcaMsgAware::clear_winner" alt="" coords="668,235,852,261">
+<area shape="rect" href="$classRouterReqReply.html#6ab24e85122cbdf0a40dac60e3d3a385" title="RouterReqReply::request_switch_allocation" alt="" coords="624,488,896,515">
+<area shape="rect" href="$classRouterReqReply.html#2cce27c47a7e1abbc2ad89d5a70c071d" title="RouterReqReply::send_credit_back" alt="" coords="648,336,872,363">
+<area shape="rect" href="$classVcaMsgAware.html#6ecf33de60c53a4a899017d73080d471" title="VcaMsgAware::get_no_requestors" alt="" coords="651,539,869,565">
+<area shape="rect" href="$classVcaMsgAware.html#a507f6f23eb6cfd5bdfee9429b281d18" title="VcaMsgAware::pick_winners" alt="" coords="667,589,853,616">
+<area shape="rect" href="$classVcaMsgAware.html#7d4367ada0e121c635cc75ffc8625de7" title="VcaMsgAware::request" alt="" coords="683,640,837,667">

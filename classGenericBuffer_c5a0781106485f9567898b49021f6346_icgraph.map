@@ -1,0 +1,6 @@
+<area shape="rect" href="$classGenericInterfacePhy.html#7a5f09a7ec40893278e3b3208e1b5fdf" title="GenericInterfacePhy::handle_link_arrival" alt="" coords="189,5,445,32">
+<area shape="rect" href="$classGenericInterfacePhy.html#66a4c49b58717a5a20c8bbfe9df8543a" title="GenericInterfacePhy::handle_tick_event" alt="" coords="776,5,1029,32">
+<area shape="rect" href="$classGenericInterfaceNB.html#ba1264d2cd3d4b19b47f31868414e6b2" title="GenericInterfaceNB::handle_link_arrival" alt="" coords="192,107,443,133">
+<area shape="rect" href="$classGenericInterfaceNB.html#52cd382b94dc781cddb1d733584fa67c" title="GenericInterfaceNB::handle_tick_event" alt="" coords="779,107,1027,133">
+<area shape="rect" href="$classGenericInterfacePhy.html#66af4b700231c32fde543414bb56708f" title="GenericInterfacePhy::process_event" alt="" coords="495,5,727,32">
+<area shape="rect" href="$classGenericInterfaceNB.html#18b4d5f008338433e7a459202cacd1ec" title="GenericInterfaceNB::process_event" alt="" coords="497,107,724,133">

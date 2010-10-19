@@ -1,0 +1,6 @@
+<area shape="rect" href="$classGenericRouterPhy.html#27fb33d3c9528b0a519b5d39bb019009" title="GenericRouterPhy::do_switch_allocation" alt="" coords="293,5,549,32">
+<area shape="rect" href="$classGenericRouter4Stg.html#fe22ee367c33ab91c33ac312e5625c86" title="GenericRouter4Stg::do_switch_allocation" alt="" coords="292,56,551,83">
+<area shape="rect" href="$classGenericRouterPhy.html#d083049d20ab46d80a7480c01d1e9c23" title="Event handle for the TICK_EVENT. Entry from DES kernel This implements the pipe stages..." alt="" coords="603,5,843,32">
+<area shape="rect" href="$classGenericRouterPhy.html#e8834516d50f156e6a2db624605d9080" title="GenericRouterPhy::process_event" alt="" coords="896,5,1115,32">
+<area shape="rect" href="$classGenericRouter4Stg.html#833d1b4846f21e8f39c41fc88b7afcb7" title="Event handle for the TICK_EVENT. Entry from DES kernel." alt="" coords="601,56,844,83">
+<area shape="rect" href="$classGenericRouter4Stg.html#87fb4d26bab4a4249f5e2e0c1788ecd0" title="GenericRouter4Stg::process_event" alt="" coords="893,56,1117,83">

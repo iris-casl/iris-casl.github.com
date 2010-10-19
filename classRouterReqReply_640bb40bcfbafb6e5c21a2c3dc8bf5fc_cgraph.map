@@ -1,0 +1,6 @@
+<area shape="rect" href="$classVcaMsgAware.html#d7ce3e3cd0f288e3103e743dcb0167cd" title="VcaMsgAware::init" alt="" coords="248,5,379,32">
+<area shape="rect" href="$classComponent.html#af44955457bc84fa39a346ee70db916f" title="Component::myId" alt="" coords="252,56,375,83">
+<area shape="rect" href="$classSimulator.html#cf5727f517db6743ddf25ae7cc9a8db4" title="Simulator::Now" alt="" coords="259,107,368,133">
+<area shape="rect" href="$classNetworkComponent.html#c93793eea1e2d424abe86e110ca8b399" title="NetworkComponent::process_event" alt="" coords="200,157,427,184">
+<area shape="rect" href="$classSimulator.html#2b4be0a76ed9915d4c1c861386d666bc" title="Simulator::Schedule" alt="" coords="244,208,383,235">
+<area shape="rect" href="$classVcaMsgAware.html#b03b20d2b65cb8d4a6338817abf18be3" title="VcaMsgAware::set_no_msg_classes" alt="" coords="196,259,431,285">

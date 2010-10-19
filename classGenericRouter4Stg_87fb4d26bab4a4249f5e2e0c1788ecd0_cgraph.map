@@ -1,0 +1,26 @@
+<area shape="rect" href="$classGenericRouter4Stg.html#67f0c48f4d6b171d3692402fd7891387" title="GenericRouter4Stg::handle_detect_deadlock_event" alt="" coords="881,47,1199,73">
+<area shape="rect" href="$classGenericRouter4Stg.html#80294291699eeef262eab4162ad1b4c8" title="Event handle for the LINK_ARRIVAL_EVENT event. Entry from DES kernel." alt="" coords="897,97,1183,124">
+<area shape="rect" href="$classGenericRouter4Stg.html#833d1b4846f21e8f39c41fc88b7afcb7" title="Event handle for the TICK_EVENT. Entry from DES kernel." alt="" coords="279,452,521,479">
+<area shape="rect" href="$classSimulator.html#cf5727f517db6743ddf25ae7cc9a8db4" title="Simulator::Now" alt="" coords="1611,401,1720,428">
+<area shape="rect" href="$classNetworkComponent.html#c93793eea1e2d424abe86e110ca8b399" title="NetworkComponent::process_event" alt="" coords="1292,148,1519,175">
+<area shape="rect" href="$classSimulator.html#2b4be0a76ed9915d4c1c861386d666bc" title="Simulator::Schedule" alt="" coords="1336,503,1475,529">
+<area shape="rect" href="$classGenericRouter4Stg.html#fe22ee367c33ab91c33ac312e5625c86" title="GenericRouter4Stg::do_switch_allocation" alt="" coords="572,351,831,377">
+<area shape="rect" href="$classGenericRouter4Stg.html#2e9ce6f76653a692e4c178f7efff9119" title="GenericRouter4Stg::do_switch_traversal" alt="" coords="575,673,828,700">
+<area shape="rect" href="$classPToPSwitchArbiterVcs.html#abe8b9b7e2197d9b9b71648c80fb5489" title="PToPSwitchArbiterVcs::request" alt="" coords="939,908,1141,935">
+<area shape="rect" href="$classGenericVcAllocator.html#931088e890c3520774ce337adce130eb" title="GenericVcAllocator::is_empty" alt="" coords="943,959,1137,985">
+<area shape="rect" href="$classGenericVcAllocator.html#271feff7750476795585ccc4828c18b5" title="GenericVcAllocator::is_requested" alt="" coords="593,1009,809,1036">
+<area shape="rect" href="$classGenericVcAllocator.html#3b24f98199dc00c72c290b63eaa05158" title="GenericVcAllocator::pick_winner" alt="" coords="597,959,805,985">
+<area shape="rect" href="$classGenericVcAllocator.html#4330429e5ab35e77f1d4f1d056b99f3f" title="GenericVcAllocator::request" alt="" coords="609,249,793,276">
+<area shape="rect" href="$classGenericVcAllocator.html#3b82c3e8aefa88fee57e2dd7aa033d46" title="GenericVcAllocator::squash_requests" alt="" coords="581,300,821,327">
+<area shape="rect" href="$classPToPSwitchArbiterVcs.html#78a137f4c943b0e2fe41ec07cf744d8c" title="PToPSwitchArbiterVcs::clear_requestor" alt="" coords="915,452,1165,479">
+<area shape="rect" href="$classGenericCrossbar.html#50c8203133960f74f6d82649b0c864be" title="GenericCrossbar::configure_crossbar" alt="" coords="923,249,1157,276">
+<area shape="rect" href="$classPToPSwitchArbiterVcs.html#a346b5f33fbb252e2ec942caa7243922" title="PToPSwitchArbiterVcs::is_empty" alt="" coords="933,300,1147,327">
+<area shape="rect" href="$classPToPSwitchArbiterVcs.html#39274b4ccaad44c9217f150a30bba0e7" title="PToPSwitchArbiterVcs::pick_winner" alt="" coords="925,351,1155,377">
+<area shape="rect" href="$classGenericCrossbar.html#d925d4a2c3b5b4585e087dc423eeb0b8" title="GenericCrossbar::push" alt="" coords="963,199,1117,225">
+<area shape="rect" href="$classPToPSwitchArbiterVcs.html#e8adb19a43c5674bae5f4cab64b58a14" title="PToPSwitchArbiterVcs::do_round_robin_arbitration" alt="" coords="1249,351,1561,377">
+<area shape="rect" href="$classGenericVcAllocator.html#a4f1939dca67958c3db027a0f5f29535" title="GenericVcAllocator::clear_winner" alt="" coords="933,857,1147,884">
+<area shape="rect" href="$classGenericCrossbar.html#b1dc236c4543805ac9fd50f25adcc27e" title="GenericCrossbar::is_empty" alt="" coords="951,756,1129,783">
+<area shape="rect" href="$classGenericCrossbar.html#3c3fa82ff5db189ec69497f79e15112c" title="GenericCrossbar::pull" alt="" coords="967,807,1113,833">
+<area shape="rect" href="$classGenericRouter4Stg.html#2913f7731552a423d7b1cc46ae4f02fc" title="GenericRouter4Stg::send_credit_back" alt="" coords="920,655,1160,681">
+<area shape="rect" href="$classGenericVcAllocator.html#e5f0e92a3aba6a084637e6560849e3ba" title="GenericVcAllocator::do_round_robin_arbitration" alt="" coords="893,1060,1187,1087">
+<area shape="rect" href="$classGenericVcAllocator.html#34ce41d5e60202583d218bde7e2a794f" title="GenericVcAllocator::set_request_matrix" alt="" coords="915,1009,1165,1036">

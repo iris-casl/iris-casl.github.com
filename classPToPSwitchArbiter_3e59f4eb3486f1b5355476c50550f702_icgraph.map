@@ -1,0 +1,4 @@
+<area shape="rect" href="$classPToPSwitchArbiter.html#8b304c2fc07b6c0d55ce25b621a9f685" title="PToPSwitchArbiter::pick_winner" alt="" coords="300,5,505,32">
+<area shape="rect" href="$classGenericRouterPhy.html#27fb33d3c9528b0a519b5d39bb019009" title="GenericRouterPhy::do_switch_allocation" alt="" coords="555,5,811,32">
+<area shape="rect" href="$classGenericRouterPhy.html#d083049d20ab46d80a7480c01d1e9c23" title="Event handle for the TICK_EVENT. Entry from DES kernel This implements the pipe stages..." alt="" coords="859,5,1099,32">
+<area shape="rect" href="$classGenericRouterPhy.html#e8834516d50f156e6a2db624605d9080" title="GenericRouterPhy::process_event" alt="" coords="1148,5,1367,32">

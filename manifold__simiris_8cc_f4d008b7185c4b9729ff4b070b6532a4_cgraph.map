@@ -1,0 +1,7 @@
+<area shape="rect" href="$classIrisStats.html#a1c4c15c03c8cb1cd82f0935748d7fb6" title="IrisStats::get_total_credits_passed" alt="" coords="195,5,419,32">
+<area shape="rect" href="$classIrisStats.html#a875a484dc0d8de8715cd7d956678d72" title="IrisStats::get_total_flits_passed" alt="" coords="204,56,409,83">
+<area shape="rect" href="$classIrisStats.html#e846409162dbf18d55ec133eb1b0cc09" title="IrisStats::get_total_ib_cycles" alt="" coords="212,107,401,133">
+<area shape="rect" href="$classIrisStats.html#39c6db561e3a7c34ca897d4213feec66" title="IrisStats::get_total_rc_cycles" alt="" coords="211,157,403,184">
+<area shape="rect" href="$classIrisStats.html#c929f11f8d9668f144ef1e4866c8266e" title="IrisStats::get_total_sa_cycles" alt="" coords="209,208,404,235">
+<area shape="rect" href="$classIrisStats.html#168eebfcda9aa5be6c304f64f7814919" title="IrisStats::get_total_st_cycles" alt="" coords="211,259,403,285">
+<area shape="rect" href="$classIrisStats.html#c03d2b70248bb4024b1cb5f5df666f9a" title="IrisStats::get_total_vca_cycles" alt="" coords="207,309,407,336">

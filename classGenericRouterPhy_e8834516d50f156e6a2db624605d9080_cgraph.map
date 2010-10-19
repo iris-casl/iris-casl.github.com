@@ -1,0 +1,25 @@
+<area shape="rect" href="$classGenericRouterPhy.html#707fa13c8ee7b7d9931526a847bc35b2" title="Event handle for the LINK_ARRIVAL_EVENT event. Entry from DES kernel." alt="" coords="868,951,1148,977">
+<area shape="rect" href="$classGenericRouterPhy.html#d083049d20ab46d80a7480c01d1e9c23" title="Event handle for the TICK_EVENT. Entry from DES kernel This implements the pipe stages..." alt="" coords="275,469,515,496">
+<area shape="rect" href="$classSimulator.html#cf5727f517db6743ddf25ae7cc9a8db4" title="Simulator::Now" alt="" coords="1581,545,1691,572">
+<area shape="rect" href="$classNetworkComponent.html#c93793eea1e2d424abe86e110ca8b399" title="NetworkComponent::process_event" alt="" coords="1252,647,1479,673">
+<area shape="rect" href="$classSimulator.html#2b4be0a76ed9915d4c1c861386d666bc" title="Simulator::Schedule" alt="" coords="1296,875,1435,901">
+<area shape="rect" href="$classGenericRouterPhy.html#8c810a8b8c491e521d255425022cf155" title="GenericRouterPhy::do_input_buffering" alt="" coords="571,109,811,136">
+<area shape="rect" href="$classGenericRouterPhy.html#27fb33d3c9528b0a519b5d39bb019009" title="GenericRouterPhy::do_switch_allocation" alt="" coords="563,324,819,351">
+<area shape="rect" href="$classGenericRouterPhy.html#3953e00f7d6a719af68097c551a02572" title="GenericRouterPhy::do_switch_traversal" alt="" coords="565,647,816,673">
+<area shape="rect" href="$classGenericRouterPhy.html#5f62a081acb4d368f121e8cb2bac20bc" title="GenericRouterPhy::toString" alt="" coords="919,444,1097,471">
+<area shape="rect" href="$classPToPSwitchArbiter.html#3c4eeb723ecb521a82a4518820e48896" title="PToPSwitchArbiter::is_requested" alt="" coords="585,444,796,471">
+<area shape="rect" href="$classPToPSwitchArbiter.html#34e8394265869ee076610c67e4cf5de7" title="PToPSwitchArbiter::request" alt="" coords="600,197,781,224">
+<area shape="rect" href="$classPToPSwitchArbiter.html#c21620597bbc0344eec88c21b254a310" title="PToPSwitchArbiter::clear_requested" alt="" coords="893,241,1123,268">
+<area shape="rect" href="$classGenericCrossbar.html#50c8203133960f74f6d82649b0c864be" title="GenericCrossbar::configure_crossbar" alt="" coords="891,292,1125,319">
+<area shape="rect" href="$classPToPSwitchArbiter.html#20a229615b20e987aaa0291af0805e31" title="PToPSwitchArbiter::is_empty" alt="" coords="912,343,1104,369">
+<area shape="rect" href="$classPToPSwitchArbiter.html#8b304c2fc07b6c0d55ce25b621a9f685" title="PToPSwitchArbiter::pick_winner" alt="" coords="905,191,1111,217">
+<area shape="rect" href="$classGenericCrossbar.html#d925d4a2c3b5b4585e087dc423eeb0b8" title="GenericCrossbar::push" alt="" coords="931,393,1085,420">
+<area shape="rect" href="$classPToPSwitchArbiter.html#3e59f4eb3486f1b5355476c50550f702" title="PToPSwitchArbiter::do_fcfs_arbitration" alt="" coords="1243,191,1488,217">
+<area shape="rect" href="$classPToPSwitchArbiter.html#012ef93786c879ce0c3db3891d43a9be" title="PToPSwitchArbiter::do_priority_round_robin_arbitration" alt="" coords="1197,241,1533,268">
+<area shape="rect" href="$classPToPSwitchArbiter.html#bb10205ca5104e0be5519bd336fb85e1" title="PToPSwitchArbiter::do_round_robin_arbitration" alt="" coords="1220,292,1511,319">
+<area shape="rect" href="$classPToPSwitchArbiter.html#752c022c63e6552d06798d65e634f8d4" title="PToPSwitchArbiter::clear_winner" alt="" coords="903,748,1113,775">
+<area shape="rect" href="$classGenericCrossbar.html#b1dc236c4543805ac9fd50f25adcc27e" title="GenericCrossbar::is_empty" alt="" coords="919,799,1097,825">
+<area shape="rect" href="$classGenericCrossbar.html#3c3fa82ff5db189ec69497f79e15112c" title="GenericCrossbar::pull" alt="" coords="935,596,1081,623">
+<area shape="rect" href="$classGenericRouterPhy.html#f1f981db54295f8af0c8404f1c5a4460" title="GenericRouterPhy::send_credit_back" alt="" coords="889,697,1127,724">
+<area shape="rect" href="$classGenericCrossbar.html#6794211c84eda89c8ff8e2460d5201fc" title="GenericCrossbar::toString" alt="" coords="1280,419,1451,445">
+<area shape="rect" href="$classPToPSwitchArbiter.html#f85a552b1be155e2717c197a51799414" title="PToPSwitchArbiter::toString" alt="" coords="1273,469,1457,496">
